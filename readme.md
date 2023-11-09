@@ -1,30 +1,52 @@
-# Awesome List Template
+<div align="center">
+<!-- title -->
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!--lint ignore no-dead-urls-->
 
-## Usage
+# Awesome Android Desktop [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/vanarok/awesome-android-desktop/actions/workflows/lint.yaml/badge.svg)](https://github.com/vanarok/awesome-android-desktop/actions/workflows/lint.yaml)
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+<!-- subtitle -->
+
+Use your android device as a desktop with keyboard.
+
+<!-- image -->
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Android_logo_2023_(stacked).svg" />
+</a>
+
+<!-- description -->
+
+Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Apps with support keybinds](#featured-new-releases)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Apps with suport keybinds
+
+- [Obsidian](https://obsidian.md/) - is the private and flexible writing app that adapts to the way you think.
+
+- [Super Productivity](https://super-productivity.com/) - is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+<!-- END CONTENT -->
+
+## Follow
+
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+Who else should we be following!?
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/vanarok/awesome-android-desktop/graphs/contributors)!
