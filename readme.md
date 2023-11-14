@@ -37,6 +37,14 @@ Android is a mobile operating system based on a modified version of the Linux ke
 - [Super Productivity](https://super-productivity.com/) - is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 <!-- END CONTENT -->
 
+- [Termux](https://f-droid.org/fr/packages/com.termux/) - is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+
+- [MPV](https://f-droid.org/packages/is.xyz.mpv) - is a video player for Android based on libmpv.
+
+## Termux cli apps with android integration
+
+- [ani-cli](https://github.com/pystardust/ani-cli) - a cli to browse and watch anime.
+
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
